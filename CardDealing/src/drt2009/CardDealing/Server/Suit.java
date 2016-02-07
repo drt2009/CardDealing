@@ -23,6 +23,6 @@ public enum Suit {
 	 * @return suit
 	 */
 	public String getSuit(){
-		return suit;
+		return this.suit;
 	}
 }
