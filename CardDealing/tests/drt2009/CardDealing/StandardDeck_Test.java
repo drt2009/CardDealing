@@ -1,4 +1,4 @@
-package drt2009.CardDealing.Server;
+package drt2009.CardDealing;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -7,6 +7,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+import drt2009.CardDealing.Server.StandardDeckImpl;
 import drt2009.CardDealing.Service.Card;
 import drt2009.CardDealing.Service.StandardDeck;
 

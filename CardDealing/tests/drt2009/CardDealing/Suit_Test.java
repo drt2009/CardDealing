@@ -1,6 +1,8 @@
-package drt2009.CardDealing.Server;
+package drt2009.CardDealing;
 
 import org.junit.Test;
+
+import drt2009.CardDealing.Server.Suit;
 
 import static org.junit.Assert.assertEquals;
 

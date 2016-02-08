@@ -1,8 +1,10 @@
-package drt2009.CardDealing.Server;
+package drt2009.CardDealing;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import drt2009.CardDealing.Server.Value;
 
 public class Value_Test {
 
