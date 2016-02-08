@@ -6,9 +6,11 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class CardImpl_Test {
+import drt2009.CardDealing.Service.Card;
 
-	private CardImpl card = null;
+public class Card_Test {
+
+	private Card card = null;
 	private final String TEST_SUIT = Suit.Hearts.getSuit();
 	private final String TEST_VALUE = Value.Ace.getValue();
 
